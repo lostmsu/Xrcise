@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <AssemblyName>Xrcise.LifeSpan</AssemblyName>
+    <RootNamespace>Xrcise.LifeSpan</RootNamespace>
+  </PropertyGroup>
+
+</Project>
